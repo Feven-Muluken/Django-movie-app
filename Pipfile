@@ -5,9 +5,11 @@ name = "pypi"
 
 [packages]
 django = "*"
-django-tastypie = "*"
 gunicorn = "*"
 whitenoise = "*"
+psycopg2-binary = "*"
+dj-database-url = "*"
+django-tastypie = "*"
 
 [dev-packages]
 
